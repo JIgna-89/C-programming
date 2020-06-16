@@ -1,7 +1,7 @@
 # C\# Programming Tutorial
 ## Learn to code in C#
 
-**This Git repo aims to document the entire 4 h and 30 min tutorial provided by [freeCodeCamp.org](https://www.freecodecamp.org/) and also start with [Microsoft docs about C#](https://docs.microsoft.com/en-us/dotnet/csharp/).**
+**This Git repo aims to document the entire training of 4 h and 30 min tutorial provided by [freeCodeCamp.org](https://www.freecodecamp.org/) and also start with [Microsoft docs about C#](https://docs.microsoft.com/en-us/dotnet/csharp/).**
 
 *This also serves me as practice to learn GitHub and markdown (MD) language.*
 
