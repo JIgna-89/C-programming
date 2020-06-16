@@ -2,12 +2,5 @@ This file will follow HTML image tagging to train in HTML.
 Source: https://www.w3schools.com/tags/tag_img.asp
 
 Sample HTML image tag: 
-
-
-
-
-
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-
-
+> <?img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600" ?>
 
