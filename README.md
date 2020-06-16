@@ -7,4 +7,4 @@ Learn to code in C#
 
 Source video: [C# Tutorial - Full Course for Beginners](https://youtu.be/GhQdlIFylQ8)
 
-**Worth to mention**: I have a BA in English-Spanish translation looking to transition to the software field. Luckily, I do have practice in regex and these have made me eager to learn more about programming and databases.
+**Worth to mention**: I have a BA in English-Spanish translation and I am looking to transition to the software field. Luckily, I do have practice in regex and it have made me eager to learn more about programming and databases.
