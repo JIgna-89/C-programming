@@ -7,7 +7,7 @@
 
 Source video: [C# Tutorial - Full Course for Beginners](https://youtu.be/GhQdlIFylQ8).
 
-There is a *Screenshots* file where I will add the screenshots as I go through this training. 
+I will try to add exercises to each created file.
 
 #### Worth to mention:
 I have a BA in English-Spanish translation and I am looking to transition to the software field. Luckily, I do have practice in regex and some SQL syntax. These have made me eager to learn more about programming and databases.
