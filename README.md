@@ -24,5 +24,5 @@ Source: [W3C Schools](https://www.w3schools.com/tags/tag_img.asp).
 
 - Sample HTML image tag: 
 ```html
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="image_url" alt="Girl in a jacket" width="500" height="600">
 ```
