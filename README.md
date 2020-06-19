@@ -18,11 +18,4 @@ I do recognize it is a long path to accomplish and I'd appreciate any help.
 
 #### File _screenshots_
 
-This file will follow HTML image tagging to train in HTML and allow the use of relative paths.
-
-Source: [W3C Schools](https://www.w3schools.com/tags/tag_img.asp).
-
-- Sample HTML image tag: 
-```html
-<img src="image_url" alt="Girl in a jacket" width="500" height="600">
-```
+This file will follow url HTML image tagging.
