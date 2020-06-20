@@ -18,4 +18,11 @@ I do recognize it is a long path to accomplish and I'd appreciate any help.
 
 #### File _screenshots_
 
-This file will follow url HTML image tagging.
+This file will follow url HTML image tagging to the *Screenshots* file.
+
+**********
+
+
+Still to do:
+- [C# Tutorial from MS | C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [C# Tutorial from GeekforGeeks](https://www.geeksforgeeks.org/c-sharp-tutorial/?ref=leftbar-rightbar)
